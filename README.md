@@ -19,3 +19,8 @@ Core Features Real-time Message Delivery: Messages appear instantly for all conn
 A responsive chat interface with message display and input areas Online user tracking functionality Multiple room support Typing indicators Message history Connection status monitoring In a production environment, you would:
 
 Split the client and server into separate codebases Use actual WebSocket/Socket.IO libraries Implement proper authentication Add persistent storage for messages Include proper error handling Deploy the server component to a Node.js hosting environment.
+
+#OUTPUT
+
+![WhatsApp Image 2025-06-25 at 16 39 20_201c1446](https://github.com/user-attachments/assets/10eafe0d-85bf-4eb6-a347-a7c691703b1c)
+
