@@ -10,7 +10,7 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 
 DURATION: 4 WEEKS
 
-MENTOR: NEELA SANTOSH
+MENTOR: NEELA SANTOSH KUMAR
 
 #DESCRIPTION: A real-time chat application enables instantaneous message exchange between users by establishing persistent bidirectional communication channels between clients and servers. Unlike traditional HTTP requests that require polling, this uses WebSocket or Socket.IO protocols for true real-time interaction.
 
